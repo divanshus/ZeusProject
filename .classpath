@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_ivv/ZeusLAMP/Resources/ArsinFramework-1.3.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/selenium-java-2.45.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/selenium-server-standalone-2.45.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/commons-collections-3.2.1 (1).jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-api-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-jcr2dav-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-jcr2spi-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-jcr-commons-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-spi-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-spi2dav-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-spi-commons-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jackrabbit-webdav-2.4.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jcl-over-slf4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jcr-2.0.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/jxl.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="//10.11.13.191/vmware_auto_IVV/ZeusLAMP/Resources/poi-3.12/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+-<suite thread-count="1" name="HCPP">
+<parameter name="prjName" value="HCPP"/>
+<parameter name="instanceName" value="test13"/>
+<parameter name="sauceUser" value="Local"/>
+<parameter name="testSetName" value="HPP_Estimator"/>
+<test name="sit2.hcppestimator">
+<parameter name="testEnvironment" value="TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome,TC_VMware_L4_Enterprise_Component1=Windows 7||Chrome"/>
+<parameter name="moduleName" value="sit2.hcppestimator"/>
+    <classes>
+      <class name="scripts.sit.vmware.TC_VMware_L4_Enterprise_Component1"/>
+      <class name="scripts.sit.vmware.TC_VMware_CClamp_SmallCardComponent"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4_Enterprise_Component2"/>
+      <class name="scripts.sit.vmware.TC_VMware_CClamp_LinkListCard"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4_Enterprise_Component4"/>
+      <class name="scripts.sit.vmware.TC_VMware_Canvas_SmallCardComponent"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4Enterprise_PartnerLoginForm"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4Enterprise_Component3"/>
+      <class name="scripts.sit.vmware.TC_VMware_Cclamp_Component2"/>
+      <class name="scripts.sit.vmware.TC_VMware_Cclamp_Component1"/>
+      <class name="scripts.sit.vmware.TC_VMware_TechPaper_Component"/>
+      <class name="scripts.sit.vmware.TC_VMware_Tags"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4Enterprise_Component5"/>
+      <class name="scripts.sit.vmware.TC_VMware_HomePage_LinkListCard"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4consumer_LinkListCard"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4enterprise_LinkListCard"/>
+      <class name="scripts.sit.vmware.TC_VMware_L4Consumer_PartnerLoginForm"/>
+      <class name="scripts.sit.vmware.TC_VMware_Canvas_Component"/>
+      <class name="scripts.sit.vmware.TC_VMware_CClamp_PartnerLoginForm"/>
+      <class name="scripts.sit.vmware.TC_VMware_HomePage_Component1"/>
+      <class name="scripts.sit.vmware.TC_VMware_HomePage_Component2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
